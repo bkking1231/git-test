@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println(("Black_1891"));
         System.out.println(("Corn_1891"));
         System.out.println(("push Test"));
+        System.out.println(("pull Test"));
     }
 }
